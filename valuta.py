@@ -47,6 +47,7 @@ a = soup.find('span', class_='refresh').text
 date.append(a)
 
 
+""" Добавление двух заголовков и даты """
 data.insert(0, headers2)
 data.insert(0, headers)
 data.append(date)
