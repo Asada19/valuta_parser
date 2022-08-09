@@ -4,7 +4,7 @@ How to use
 $ git clone https://github.com/Asada19/Valuta_parser.git
 
 # Go into the repository
-$ cd cities
+$ cd valuta
 
 # Install and activate venv
 $ python3 -m venv venv
